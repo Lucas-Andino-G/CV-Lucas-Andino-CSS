@@ -36,7 +36,6 @@ body{
     background-color:darkgoldenrod;
     border: 2px solid rgb(95, 80, 10);
     height: 60px;
-    margin-left: 263px;
     width: 807px;
 }
 
@@ -44,7 +43,6 @@ body{
 .lc{
     margin-top: 380px;
     text-align: center;
-    margin-left: 263px;
     width: 325px;
     background-color: darkgoldenrod;
     border: 2px solid rgb(95, 80, 10);
@@ -56,7 +54,6 @@ body{
     width: 286px;
     height: 125px;
     background-color: burlywood;
-    margin-left: 263px;
     padding: 30px 20px;
     border: 2px solid rgb(95, 80, 10);
 }
