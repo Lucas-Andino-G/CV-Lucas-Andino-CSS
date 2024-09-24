@@ -24,10 +24,10 @@ body{
 .imagen{
     background-color: burlywood;
     border: 10px solid rgb(95, 80, 10);
-    margin-left: 700px;
-    margin-top: -206px;
-    width: 100px;
-    height: 130px;
+    margin-left: 163px;
+    margin-top: -620px;
+    width: 310px;
+    height: 310px;
 }
 
 /*Aqui estoy modificando el encabezado Curriculum Vitae*/
@@ -36,13 +36,14 @@ body{
     background-color:darkgoldenrod;
     border: 2px solid rgb(95, 80, 10);
     height: 60px;
-    margin: 5px 63px;
+    margin: 80px;
 }
 
 /*Aqui estoy modificando mi nombre*/
 .lc{
+    margin-top: 380px;
     text-align: center;
-    margin-left: 835px;
+    margin-left: 163px;
     width: 325px;
     background-color: darkgoldenrod;
     border: 2px solid rgb(95, 80, 10);
@@ -51,24 +52,24 @@ body{
 /*Aqui estoy modificando la descripción*/
 .des{
     text-align:left;
-    width: 285px;
+    width: 286px;
     height: 125px;
     background-color: burlywood;
-    margin-left: 835px;
+    margin-left: 163px;
     padding: 30px 20px;
     border: 2px solid rgb(95, 80, 10);
 }
 
 /*Aqui modifico los atributos de la sección educación*/
 .educ{
-    margin-top: 61px;
+    margin-top: -100px;
 }
 .educ2{
     text-align:left;
     width: 325px;
     height: 260px;
     background-color: burlywood;;
-    margin-left: 835px;
+    margin-left: 163px;
     padding: 50px -10px;
     border: 2px solid rgb(95, 80, 10);
 }
@@ -79,13 +80,13 @@ body{
     background-color: darkgoldenrod;
     border: 2px solid rgb(95, 80, 10);
     width: 335px;
-    margin-left: 163px;
-    margin-top: -576px;
+    margin-left: 835px;
+    margin-top: -959px;
 }
 
 /*Aqui estoy modificando el atributo del encabezado de experiencia laboras*/
 .ta{
-    margin-left: 163px;
+    margin-left: 835px;
     width: 325px;
     background-color: burlywood;
     border: 2px solid rgb(95, 80, 10);
@@ -99,10 +100,10 @@ body{
     width: 335px;
     background-color: darkgoldenrod;
     border: 2px solid rgb(95, 80, 10);
-    margin-left: 163px;
+    margin-left: 835px;
 }
 .skill2{
-    margin-left: 163px;
+    margin-left: 835px;
     width: 325px;
     background-color: burlywood;
     border: 2px solid rgb(95, 80, 10);
